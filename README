@@ -4,3 +4,5 @@ By: Brian Ballsun-Stanton
 GPL v3
 
 Searches on terms, turns them into rss feed.
+
+put the Google apikey into .apikey
